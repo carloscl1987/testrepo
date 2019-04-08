@@ -17,5 +17,5 @@ forge "https://forgeapi.puppetlabs.com"
  mod 'puppetlabs-apache', '0.6.0', :github_tarball => 'puppetlabs/puppetlabs-apache'
 
  mod 'testrepo',
-    :git => 'https://github.com/carloscl1987/testrepo.git'
+    :git => 'https://github.com/carloscl1987/testrepo.git',
     :branch => 'master'
